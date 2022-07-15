@@ -38,8 +38,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://github.com/Richard-Emmanuel/Product-preview-card-component.git)
+- Solution URL: [solution](https://github.com/Richard-Emmanuel/Product-preview-card-component.git)
+- Live Site URL: [live-site](https://richard-emmanuel.github.io/Product-preview-card-component/)
 
 ## My process
 
@@ -50,7 +50,7 @@ Users should be able to:
 - Flexbox
 - Desktop-first workflow
 
-**Note: These are just examples. Delete this note and replace the list above with your own choices**
+
 
 ### What I learned
 -Learnt the Use case of "row-gap"
@@ -65,15 +65,8 @@ Users should be able to:
 - [Letter spacing](https://developer.mozilla.org/en-US/docs/Web/CSS/letter-spacing) - This helped understand Letter spacing
 - [row gaps](https://developer.mozilla.org/en-US/docs/Web/CSS/row-gap) - This is an amazing article which helped me finally understand row-gap. I'd recommend it to anyone still learning this concept.
 
-**Note: Delete this note and replace the list above with resources that helped you during the challenge. These could come in handy for anyone viewing your solution or for yourself when you look back on this project in the future.**
 
 ## Author
 
 - Frontend Mentor - [Richard Emmanuel](https://www.frontendmentor.io/profile/Richard-Emmanuel)
 
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
-
-## Acknowledgments
-
-
-**Note: Delete this note and edit this section's content as necessary. If you completed this challenge by yourself, feel free to delete this section entirely.**
